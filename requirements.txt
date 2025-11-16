@@ -1,1 +1,1 @@
-streamlit pandas altair
+streamlitpandasaltair
