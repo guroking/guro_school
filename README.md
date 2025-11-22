@@ -39,7 +39,7 @@
 ## 🎥 시연 및 결과
 
 ### 시연 동영상
-[**📺 시연 동영상 보러가기**](https://www.youtube.com) (추가 예정)
+[**📺 시연 동영상 보러가기**](https://youtu.be/gErdF-h1aAY)
 
 ### 💻 외부 URL (프로젝트 배포 링크)
 [**✨ Streamlit 대시보드 바로가기**](https://guroschool.streamlit.app/)
